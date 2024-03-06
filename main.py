@@ -8,7 +8,7 @@ print("# Creation")
 blender_object = BlenderObject(classes)
 print()
 
-# Execution
+# Draw
 print("# Draw")
 blender_object.draw()
 print(blender_object.layout)
